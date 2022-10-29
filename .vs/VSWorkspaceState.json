@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\algorithms",
+    "\\algorithms\\algorithms"
   ],
+  "SelectedNode": "\\algorithms\\algorithms\\algorithms.cpp",
   "PreviewInSolutionExplorer": false
 }
